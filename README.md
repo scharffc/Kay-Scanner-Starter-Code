@@ -1,4 +1,4 @@
-# Kay-Scanner-Starter-Code-2023
+# Kay-Scanner-Starter-Code
 **Starter Code for the Kay Scanner assignment**
 
 Implement your own `TokenStream.java` in the main/java/com/scanner/project folder that follows the BNF grammar for Kay.
